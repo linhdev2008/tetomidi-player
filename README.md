@@ -19,7 +19,7 @@ A lightweight MIDI player that transforms MIDI notes into keyboard inputs.
 Watch tetoMIDI in action:
 
 <!-- Replace with your GitHub-hosted preview video -->
-[▶️ Watch tetoMIDI Preview](YOUR_VIDEO_PREVIEW_LINK)
+[▶️ Watch tetoMIDI Preview](https://youtu.be/BLA-oW0dkWg?si=BnXqHjWLNLmgc8ve)
 
 ---
 
