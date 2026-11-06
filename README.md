@@ -1,6 +1,7 @@
  <div align="center">
 
-# 🎹 tetoMIDI<img width="1024" height="1024" alt="IMG_4853" src="https://github.com/user-attachments/assets/96790b91-1d7e-4576-adac-99e14f86ffed" />
+# 🎹 tetoMIDI<img width="256" height="256" alt="app-256" src="https://github.com/user-attachments/assets/f99ecb66-cc4d-4d67-af9e-70dbb03c9759" />
+
 
 
 **Your MIDI. Your Keyboard. Your Music.**
