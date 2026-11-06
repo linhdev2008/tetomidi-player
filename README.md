@@ -2,7 +2,7 @@
 
 # 🎹 tetoMIDI
 
-<img width="256" height="256" alt="app-256" src="https://github.com/user-attachments/assets/f99ecb66-cc4d-4d67-af9e-70dbb03c9759" />
+<img width="100" height="100" alt="app-100" src="https://github.com/user-attachments/assets/f99ecb66-cc4d-4d67-af9e-70dbb03c9759" />
 
 
 
