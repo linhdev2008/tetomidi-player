@@ -184,7 +184,7 @@ Need help, want to report bugs, or have suggestions?
 
 <div align="center">
 
-**🎹 Made for MIDI lovers.**
+**🎹 Made for Xiu.**
 
 *Play music. Enjoy tetoMIDI.*
 
